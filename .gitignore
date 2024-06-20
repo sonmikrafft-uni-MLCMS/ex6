@@ -1,0 +1,8 @@
+__pycache__
+*.pkl
+*.mp4
+*.pdf
+*.png
+*.csv
+
+!out/task_4_rf_pred_test.pkl
